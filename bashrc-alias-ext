@@ -1,0 +1,6 @@
+alias ls="ls -l"                                                                 
+alias git-log="git log --oneline -40 --decorate --graph"                         
+alias git-status="git status -s | grep -v \"??\""                                
+ulimit -c unlimited
+alias python=python3
+alias pip=pip3
