@@ -12,4 +12,3 @@ set shiftwidth=4
 " On pressing tab, insert 4 spaces
 set expandtab
 cs add ~/cscope/db/cscope.out
-execute pathogen#infect()
